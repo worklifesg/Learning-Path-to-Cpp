@@ -14,10 +14,10 @@ In this path we will go through 8 Course Modules to fully understand different a
 
    - [x] Learning C++ (![Programs](https://github.com/worklifesg/Learning-Path-to-Cpp/tree/main/Course%201%20-%20Learning%20C%2B%2B))
    - [x] Learning C++ Pointers (![Programs](https://github.com/worklifesg/Learning-Path-to-Cpp/tree/main/Course%202%20-%20Learning%20C%2B%2B%20Pointers))
-   - [ ] C++ Essential Training (2018) - ![](https://img.shields.io/badge/In_Progress-Jan_2021-yellow)
+   - [ ] C++ Essential Training (2018) 
    - [ ] C++ Templates and the STL
    - [ ] Web Servers and APIs using C++
-   - [ ] Introducing Functional Programming in C++
+   - [ ] Introducing Functional Programming in C++ - ![](https://img.shields.io/badge/In_Progress-Jan_2021-yellow)
    - [ ] C++ Best Practices for Developers
    
 **Some Extra Topics**
