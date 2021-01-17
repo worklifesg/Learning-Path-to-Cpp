@@ -12,9 +12,9 @@ C++ is one of the most popular programming languages in the world. It is used fo
 
 In this path we will go through 8 Course Modules to fully understand different aspects of programming through C++ including how to face interview related to C++
 
-   - [ ] Learning C++ (![Programs](https://github.com/worklifesg/Learning-Path-to-Cpp/tree/main/Course%201%20-%20Learning%20C%2B%2B)) - ![](https://img.shields.io/badge/In_Progress-Jan_2021-yellow)
-   - [ ] Learning C++ Pointers
-   - [ ] C++ Essential Training (2018)
+   - [x] Learning C++ (![Programs](https://github.com/worklifesg/Learning-Path-to-Cpp/tree/main/Course%201%20-%20Learning%20C%2B%2B))
+   - [x] Learning C++ Pointers (![Programs](https://github.com/worklifesg/Learning-Path-to-Cpp/tree/main/Course%202%20-%20Learning%20C%2B%2B%20Pointers))
+   - [ ] C++ Essential Training (2018) - ![](https://img.shields.io/badge/In_Progress-Jan_2021-yellow)
    - [ ] C++ Templates and the STL
    - [ ] Web Servers and APIs using C++
    - [ ] Introducing Functional Programming in C++
