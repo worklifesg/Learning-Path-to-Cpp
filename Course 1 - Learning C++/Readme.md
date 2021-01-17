@@ -10,4 +10,4 @@ C++ is an efficient and versatile programming language. C++ powers systems softw
    * Flow control with if statements and loops ![](https://img.shields.io/badge/Programs-Chapter_3:_3.1,3.2,3.3,3.4,3.5,3.6,3.7,3.8,3.9-yellow) ![](https://img.shields.io/badge/Challenge-3-blue)
    * Functions ![](https://img.shields.io/badge/Programs-Chapter_4:_4.1,4.2,4.3,4.4-yellow) ![](https://img.shields.io/badge/Challenge-4-blue)
    * Opening and editing files ![](https://img.shields.io/badge/Programs-Chapter_5:_5.1,5.2,5.3,5.4-yellow) ![](https://img.shields.io/badge/Challenge-5-blue)
-   * Data structures
+   * Data structures ![](https://img.shields.io/badge/Programs-Chapter_6:_6.1,6.2,6.3,6.4-yellow) ![](https://img.shields.io/badge/Challenge-6-blue)
